@@ -211,20 +211,6 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Nekomonogatari (Kuro): Tsubasa Family"
-                    ]
-                },
-                "4": {
-                    "identifiers": {
-                        "anidb": "9453"
-                    },
-                    "mappings": [
-                        {
                             "number": "2",
                             "season": "1"
                         }
@@ -233,7 +219,18 @@
                         "Nekomonogatari (Kuro): Tsubasa Family"
                     ]
                 },
-                "5": {
+                "33": {
+                    "identifiers": {
+                        "anidb": "13033"
+                    },
+                    "names": [
+                        "Owarimonogatari (2017)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "32"
+                    }
+                },
+                "4": {
                     "identifiers": {
                         "anidb": "9453"
                     },
@@ -247,13 +244,27 @@
                         "Nekomonogatari (Kuro): Tsubasa Family"
                     ]
                 },
-                "6": {
+                "5": {
                     "identifiers": {
                         "anidb": "9453"
                     },
                     "mappings": [
                         {
                             "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nekomonogatari (Kuro): Tsubasa Family"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "9453"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5",
                             "season": "1"
                         }
                     ],

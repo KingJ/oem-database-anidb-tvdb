@@ -5,6 +5,20 @@
     "seasons": {
         "0": {
             "episodes": {
+                "14": {
+                    "identifiers": {
+                        "anidb": "13543"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shinmai Maou no Testament Departures"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "11890"
@@ -28,7 +42,7 @@
             },
             "names": {
                 "11000": [
-                    "Shinmai Maou no Testament (2015)"
+                    "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou"
                 ],
                 "11142": [
                     "Shinmai Maou no Testament Burst"

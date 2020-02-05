@@ -29,13 +29,24 @@
                 },
                 "4": {
                     "identifiers": {
-                        "anidb": "2673"
+                        "anidb": "5"
                     },
                     "mappings": [
                         {
                             "number": "1"
                         }
                     ],
+                    "names": [
+                        "Seikai no Senki II"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "2673"
+                    },
                     "names": [
                         "Seikai no Senki III"
                     ],

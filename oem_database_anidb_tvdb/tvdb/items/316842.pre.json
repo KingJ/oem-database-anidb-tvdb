@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "316842"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "11982",
+                    "12942"
+                ]
+            },
+            "names": {
+                "11982": [
+                    "Mahou Tsukai no Yome: Hoshi Matsu Hito"
+                ],
+                "12942": [
+                    "Mahou Tsukai no Yome"
+                ]
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12942"
+            },
+            "names": [
+                "Mahou Tsukai no Yome"
+            ]
+        }
+    }
+}

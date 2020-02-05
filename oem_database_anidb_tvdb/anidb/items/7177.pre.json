@@ -4,7 +4,7 @@
         "tvdb": "79895"
     },
     "names": [
-        "Gekijouban Gintama: Shinyaku Benizakura Hen"
+        "Gekijouban Gintama: Shin'yaku Benizakura Hen"
     ],
     "parameters": {
         "default_season": "0"
@@ -16,6 +16,13 @@
                     "mappings": [
                         {
                             "number": "5"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
                         }
                     ]
                 }

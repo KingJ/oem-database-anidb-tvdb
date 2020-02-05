@@ -179,6 +179,18 @@
                     "offset": -803,
                     "season": "25",
                     "start": 804
+                },
+                {
+                    "end": 926,
+                    "offset": -886,
+                    "season": "26",
+                    "start": 887
+                },
+                {
+                    "end": 942,
+                    "offset": -926,
+                    "season": "27",
+                    "start": 927
                 }
             ]
         }

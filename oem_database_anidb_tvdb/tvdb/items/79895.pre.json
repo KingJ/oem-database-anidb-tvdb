@@ -84,7 +84,7 @@
                         }
                     ],
                     "names": [
-                        "Gekijouban Gintama: Shinyaku Benizakura Hen"
+                        "Gekijouban Gintama: Shin'yaku Benizakura Hen"
                     ]
                 },
                 "5": {
@@ -97,7 +97,7 @@
                         }
                     ],
                     "names": [
-                        "Gekijouban Gintama: Shinyaku Benizakura Hen"
+                        "Gekijouban Gintama: Shin'yaku Benizakura Hen"
                     ]
                 },
                 "6": {
@@ -121,6 +121,27 @@
                         {
                             "number": "1",
                             "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "9384"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
                         }
                     ],
                     "names": [
@@ -153,6 +174,35 @@
             "supplemental": {
                 "studio": "Sunrise"
             }
+        },
+        "10": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "13917"
+                    },
+                    "names": [
+                        "Gintama. (2018)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "identifiers": {
+                        "anidb": "13263"
+                    },
+                    "names": [
+                        "Gintama. (2017)"
+                    ],
+                    "offset": 13,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
         },
         "2": {
             "identifiers": {
@@ -241,6 +291,14 @@
             },
             "names": [
                 "Gintama."
+            ]
+        },
+        "9": {
+            "identifiers": {
+                "anidb": "13263"
+            },
+            "names": [
+                "Gintama. (2017)"
             ]
         }
     }

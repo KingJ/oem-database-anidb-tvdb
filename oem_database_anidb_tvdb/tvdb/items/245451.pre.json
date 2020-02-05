@@ -11,6 +11,7 @@
                     },
                     "mappings": [
                         {
+                            "number": "1",
                             "season": "1"
                         },
                         {
@@ -33,28 +34,11 @@
                     "names": [
                         "Appleseed (2004)"
                     ],
-                    "parameters": {
-                        "episode_offset": "1"
-                    },
                     "supplemental": {
                         "studio": "Digital Frontier"
                     }
                 },
-                "3": {
-                    "identifiers": {
-                        "anidb": "5080"
-                    },
-                    "names": [
-                        "Appleseed Saga Ex Machina"
-                    ],
-                    "parameters": {
-                        "episode_offset": "2"
-                    },
-                    "supplemental": {
-                        "studio": "Digital Frontier"
-                    }
-                },
-                "5": {
+                "4": {
                     "identifiers": {
                         "anidb": "8311"
                     },
@@ -62,7 +46,7 @@
                         "Gekijou Remix Han Appleseed XIII"
                     ],
                     "parameters": {
-                        "episode_offset": "4"
+                        "episode_offset": "3"
                     }
                 },
                 "6": {

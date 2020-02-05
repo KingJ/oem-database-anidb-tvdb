@@ -4,9 +4,22 @@
         "tvdb": "272074"
     },
     "names": [
-        "Kill La Kill"
+        "Kill la Kill"
     ],
     "parameters": {
         "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

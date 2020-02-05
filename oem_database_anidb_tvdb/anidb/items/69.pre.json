@@ -113,14 +113,42 @@
                 "22": {
                     "mappings": [
                         {
-                            "number": "33"
+                            "number": "0"
                         }
                     ]
                 },
                 "23": {
                     "mappings": [
                         {
+                            "number": "33"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
                             "number": "35"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "37"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "38"
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "0"
                         }
                     ]
                 },
@@ -286,10 +314,16 @@
                     "start": 747
                 },
                 {
-                    "end": 817,
+                    "end": 877,
                     "offset": -779,
                     "season": "19",
                     "start": 780
+                },
+                {
+                    "end": 884,
+                    "offset": -877,
+                    "season": "20",
+                    "start": 878
                 }
             ]
         }

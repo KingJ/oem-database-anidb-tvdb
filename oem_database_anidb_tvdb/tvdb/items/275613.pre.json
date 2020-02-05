@@ -18,6 +18,27 @@
             "names": [
                 "Hoozuki no Reitetsu"
             ]
+        },
+        "2": {
+            "episodes": {
+                "14": {
+                    "identifiers": {
+                        "anidb": "13704"
+                    },
+                    "names": [
+                        "Hoozuki no Reitetsu (2018)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "13"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "12954"
+            },
+            "names": [
+                "Hoozuki no Reitetsu (2017)"
+            ]
         }
     }
 }

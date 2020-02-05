@@ -28,10 +28,6 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
-                        },
-                        {
                             "season": "1"
                         },
                         {
@@ -41,21 +37,10 @@
                     ],
                     "names": [
                         "Shinseiki Evangelion Gekijouban: The End of Evangelion"
-                    ]
-                },
-                "3": {
-                    "identifiers": {
-                        "anidb": "4847"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
                     ],
-                    "names": [
-                        "Evangelion Shin Gekijouban: Jo"
-                    ]
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
                 },
                 "4": {
                     "identifiers": {
@@ -63,29 +48,19 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
                             "season": "1"
                         }
                     ],
                     "names": [
                         "Evangelion Shin Gekijouban: Ha"
-                    ]
-                },
-                "5": {
-                    "identifiers": {
-                        "anidb": "7565"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
                     ],
-                    "names": [
-                        "Evangelion Shin Gekijouban: Q"
-                    ],
-                    "supplemental": {
-                        "studio": "Studio Khara"
+                    "parameters": {
+                        "episode_offset": "3"
                     }
                 },
                 "6": {
@@ -100,7 +75,10 @@
                     ],
                     "names": [
                         "Shin Evangelion Gekijouban:||"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "5"
+                    }
                 }
             }
         },
