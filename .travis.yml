@@ -15,5 +15,5 @@ deploy:
   - "dist/oem-database-anidb-tvdb*"
   - "dist/oem_database_anidb_tvdb*"
   on:
-    repo: OpenEntityMap/oem-database-anidb-tvdb
+    repo: KingJ/oem-database-anidb-tvdb
     tags: true
