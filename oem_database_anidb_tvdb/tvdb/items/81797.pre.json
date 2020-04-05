@@ -24,7 +24,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "3"
+                            "number": "4"
                         }
                     ],
                     "names": [
@@ -70,15 +70,12 @@
                     "identifiers": {
                         "anidb": "2644"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "One Piece: Omatsuri Danshaku to Himitsu no Shima"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
                 },
                 "14": {
                     "identifiers": {
@@ -86,7 +83,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "4"
+                            "number": "5"
                         }
                     ],
                     "names": [
@@ -225,7 +222,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "16"
+                            "number": "17"
                         }
                     ],
                     "names": [
@@ -238,7 +235,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "17"
+                            "number": "18"
                         }
                     ],
                     "names": [
@@ -273,7 +270,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "5"
+                            "number": "1"
                         }
                     ],
                     "names": [
@@ -286,7 +283,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "18"
+                            "number": "19"
                         }
                     ],
                     "names": [
@@ -299,7 +296,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "1"
+                            "number": "2"
                         }
                     ],
                     "names": [
@@ -312,7 +309,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "19"
+                            "number": "20"
                         }
                     ],
                     "names": [
@@ -338,7 +335,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "20"
+                            "number": "16"
                         }
                     ],
                     "names": [
@@ -393,7 +390,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "25"
+                            "number": "26"
                         }
                     ],
                     "names": [
@@ -406,7 +403,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "26"
+                            "number": "27"
                         }
                     ],
                     "names": [
@@ -473,7 +470,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "3"
                         }
                     ],
                     "names": [
@@ -636,6 +633,18 @@
             "parameters": {
                 "default_season": 1,
                 "episode_offset": 877
+            }
+        },
+        "21": {
+            "identifiers": {
+                "anidb": "69"
+            },
+            "names": [
+                "One Piece"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 891
             }
         },
         "3": {
